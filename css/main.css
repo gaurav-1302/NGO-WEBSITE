@@ -32,8 +32,21 @@ h6 {
     width: 100%;
 
 }
+#data {
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh; 
+    margin-left: 100px;
+}
+
 #slider1{
     height: 400px;
+}
+.team{
+    height: 200px;
+    
 }
 
 h1 {
